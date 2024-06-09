@@ -1,4 +1,3 @@
-
 ## 🚀 Sobre mim
 Sou o Deyvson, um data analyst em desenvolvimento, estudante de ADS, e CABO da ativa do Exercito.
 
@@ -6,15 +5,13 @@ Sou o Deyvson, um data analyst em desenvolvimento, estudante de ADS, e CABO da a
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
+![OutSystems](https://img.shields.io/badge/OutSystems-0D1E32?style=for-the-badge&logo=outsystems&logoColor=29A3E2)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-
-
 
 ### Fala comigo !
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:deyvsonxts@gmail.com)
@@ -26,6 +23,3 @@ Sou o Deyvson, um data analyst em desenvolvimento, estudante de ADS, e CABO da a
 ### GitStatus
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeyvsonAM&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-..................
