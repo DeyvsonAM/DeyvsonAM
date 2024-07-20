@@ -1,6 +1,6 @@
 # 🚀 Sobre mim
 
-Sou o Deyvson, um data analyst em desenvolvimento, estudante de Análise e Desenvolvimento de Sistemas (ADS), e Cabo da ativa do Exército Brasileiro.
+Sou um desenvolvedor BackEnd apaixonado por tecnologia, com competências em .Net, SQL, ReactNative, HTML e CSS. Tenho também a experiência de servir como CABO no Exército Brasileiro por cinco anos, onde desenvolvi habilidades como: liderança, trabalho em equipe e resiliência.
 
 ## 💼 Habilidades
 
