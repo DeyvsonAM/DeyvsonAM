@@ -5,7 +5,7 @@ Sou o Deyvson, um data analyst em desenvolvimento, estudante de Análise e Desen
 ## 💼 Habilidades
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OutSystems](https://img.shields.io/badge/OutSystems-0D1E32?style=for-the-badge&logo=outsystems&logoColor=FF0000)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
